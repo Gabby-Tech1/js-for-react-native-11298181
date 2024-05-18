@@ -1,3 +1,4 @@
+// Task 3
 const arrayManipulation = require('./arrayManipulation.js')
 
 let idCounter = 1;
